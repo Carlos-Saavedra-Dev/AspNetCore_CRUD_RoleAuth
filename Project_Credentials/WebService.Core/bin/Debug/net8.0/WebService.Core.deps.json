@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WebService.Core/1.0.0": {
+        "dependencies": {
+          "WebService.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WebService.Core.dll": {}
+        }
+      },
+      "WebService.Domain/1.0.0": {
+        "runtime": {
+          "WebService.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebService.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebService.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

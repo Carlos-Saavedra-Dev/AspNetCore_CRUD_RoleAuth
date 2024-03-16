@@ -1,0 +1,75 @@
+﻿@{
+    ViewData["Title"] = "Profile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<head>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" crossorigin="anonymous"></script>
+</head>
+<div class="container mt-4">
+    <h2>Perfil del Usuario</h2>
+    <form asp-controller="Access" asp-action="Exit">
+        <div class="mb-3">
+            <label for="userName" class="form-label">Name</label>
+            <input type="text" class="form-control" id="userName" name="userName">
+        </div>
+        <div class="mb-3">
+            <label for="userEmail" class="form-label">Email</label>
+            <input type="email" class="form-control" id="userEmail" name="userEmail">
+        </div>
+        <div class="mb-3">
+            <label for="userEmail"  class="form-label">Password</label>
+            <input type="password" placeholder="Password" class="form-control" id="userPassword" name="userPassword">
+        </div>
+        <button type="button" class="btn btn-primary" onclick="updateUser()">Actualizar</button>
+        <button type="submit" class="btn btn-danger" onclick="deleteUser()">Eliminar</button>
+    </form>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $.get("/User/UserData", function (data) {
+            $("#userName").val(data.name);
+            $("#userEmail").val(data.email);
+        });
+    });
+    function updateUser() {
+        var userData = {
+            name: $("#userName").val(),
+            email: $("#userEmail").val(),
+            password: $("#userPassword").val()
+        };
+
+        $.ajax({
+            url: "/User/Update",
+            type: "POST",
+            contentType: "application/json", 
+            data: JSON.stringify(userData), 
+            success: function (response) {
+                console.log("Success:", response);
+                alert("Usuario actualizado con éxito.");
+                window.location.href = '/Home/Index';
+            },
+            error: function (xhr, textStatus, errorThrown) {
+                console.error("Error:", textStatus, errorThrown);
+                alert("Error al actualizar el usuario")
+                }
+        });
+    }
+
+
+    function deleteUser() {
+        $.ajax({
+            url: "/User/Delete",
+            type: "POST",  
+            success: function (result) {
+                console.log("Respuesta recibida: ", result);
+            },
+            error: function (xhr, status, error) {
+                console.error("Error en la solicitud: ", status, error);
+            }
+        });
+    }
+
+
+</script>

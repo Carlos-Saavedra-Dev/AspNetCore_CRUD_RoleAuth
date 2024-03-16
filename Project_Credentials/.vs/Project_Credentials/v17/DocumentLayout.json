@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\project_credentials\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|solutionrelative:project_credentials\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2311D74-18A5-4B44-AD9E-638EADA9D604}|WebService.Core\\WebService.Core.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\webservice.core\\integrations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2311D74-18A5-4B44-AD9E-638EADA9D604}|WebService.Core\\WebService.Core.csproj|solutionrelative:webservice.core\\integrations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\project_credentials\\views\\access\\signingupform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|solutionrelative:project_credentials\\views\\access\\signingupform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\project_credentials\\views\\access\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|solutionrelative:project_credentials\\views\\access\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\project_credentials\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|solutionrelative:project_credentials\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\project_credentials\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|solutionrelative:project_credentials\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58579B7C-3898-453F-B4C6-07243A6576C5}|WebService.Domain\\WebService.Domain.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\webservice.domain\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58579B7C-3898-453F-B4C6-07243A6576C5}|WebService.Domain\\WebService.Domain.csproj|solutionrelative:webservice.domain\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2311D74-18A5-4B44-AD9E-638EADA9D604}|WebService.Core\\WebService.Core.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\webservice.core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2311D74-18A5-4B44-AD9E-638EADA9D604}|WebService.Core\\WebService.Core.csproj|solutionrelative:webservice.core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58579B7C-3898-453F-B4C6-07243A6576C5}|WebService.Domain\\WebService.Domain.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\webservice.domain\\interfaces\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58579B7C-3898-453F-B4C6-07243A6576C5}|WebService.Domain\\WebService.Domain.csproj|solutionrelative:webservice.domain\\interfaces\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D36EB4F-C18B-45DB-A447-5E20C494DCC0}|WebService.Infrastructure\\WebService.Infrastructure.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\webservice.infrastructure\\dataaccess\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D36EB4F-C18B-45DB-A447-5E20C494DCC0}|WebService.Infrastructure\\WebService.Infrastructure.csproj|solutionrelative:webservice.infrastructure\\dataaccess\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D36EB4F-C18B-45DB-A447-5E20C494DCC0}|WebService.Infrastructure\\WebService.Infrastructure.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\webservice.infrastructure\\dataaccess\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D36EB4F-C18B-45DB-A447-5E20C494DCC0}|WebService.Infrastructure\\WebService.Infrastructure.csproj|solutionrelative:webservice.infrastructure\\dataaccess\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58579B7C-3898-453F-B4C6-07243A6576C5}|WebService.Domain\\WebService.Domain.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\webservice.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58579B7C-3898-453F-B4C6-07243A6576C5}|WebService.Domain\\WebService.Domain.csproj|solutionrelative:webservice.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D36EB4F-C18B-45DB-A447-5E20C494DCC0}|WebService.Infrastructure\\WebService.Infrastructure.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\webservice.infrastructure\\contextdb\\project_credentialscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D36EB4F-C18B-45DB-A447-5E20C494DCC0}|WebService.Infrastructure\\WebService.Infrastructure.csproj|solutionrelative:webservice.infrastructure\\contextdb\\project_credentialscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\project_credentials\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|solutionrelative:project_credentials\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58579B7C-3898-453F-B4C6-07243A6576C5}|WebService.Domain\\WebService.Domain.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\webservice.domain\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58579B7C-3898-453F-B4C6-07243A6576C5}|WebService.Domain\\WebService.Domain.csproj|solutionrelative:webservice.domain\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\project_credentials\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|solutionrelative:project_credentials\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\project_credentials\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|solutionrelative:project_credentials\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\project_credentials\\webservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|solutionrelative:project_credentials\\webservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\project_credentials\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|solutionrelative:project_credentials\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\project_credentials\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|solutionrelative:project_credentials\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|c:\\users\\personal\\source\\repos\\project_credentials\\project_credentials\\views\\home\\clients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF64FD75-37B7-40E1-8ADF-9BB9D341DA5F}|Project_Credentials\\WebService.Application.csproj|solutionrelative:project_credentials\\views\\home\\clients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Views\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Project_Credentials\\Views\\Home\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Views\\Home\\Profile.cshtml",
+              "RelativeToolTip": "Project_Credentials\\Views\\Home\\Profile.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAQwDQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T23:12:50.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Project_Credentials\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Project_Credentials\\Controllers\\AccessController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAwwEQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T02:20:25.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Views\\Access\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_Credentials\\Views\\Access\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Views\\Access\\Index.cshtml",
+              "RelativeToolTip": "Project_Credentials\\Views\\Access\\Index.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T02:23:15.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\WebService.Domain\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "WebService.Domain\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\WebService.Domain\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "WebService.Domain\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAMwBYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:50:36.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\WebService.Core\\Integrations\\UserService.cs",
+              "RelativeDocumentMoniker": "WebService.Core\\Integrations\\UserService.cs",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\WebService.Core\\Integrations\\UserService.cs",
+              "RelativeToolTip": "WebService.Core\\Integrations\\UserService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:01:05.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SigningUpForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Views\\Access\\SigningUpForm.cshtml",
+              "RelativeDocumentMoniker": "Project_Credentials\\Views\\Access\\SigningUpForm.cshtml",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Views\\Access\\SigningUpForm.cshtml",
+              "RelativeToolTip": "Project_Credentials\\Views\\Access\\SigningUpForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T22:19:41.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Project_Credentials\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Project_Credentials\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAuwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T21:35:57.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\WebService.Infrastructure\\DataAccess\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WebService.Infrastructure\\DataAccess\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\WebService.Infrastructure\\DataAccess\\UserRepository.cs",
+              "RelativeToolTip": "WebService.Infrastructure\\DataAccess\\UserRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:55:56.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRolRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\WebService.Domain\\Interfaces\\IRolRepository.cs",
+              "RelativeDocumentMoniker": "WebService.Domain\\Interfaces\\IRolRepository.cs",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\WebService.Domain\\Interfaces\\IRolRepository.cs",
+              "RelativeToolTip": "WebService.Domain\\Interfaces\\IRolRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T22:41:59.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\WebService.Core\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "WebService.Core\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\WebService.Core\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "WebService.Core\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:00:59.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RolRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\WebService.Infrastructure\\DataAccess\\RolRepository.cs",
+              "RelativeDocumentMoniker": "WebService.Infrastructure\\DataAccess\\RolRepository.cs",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\WebService.Infrastructure\\DataAccess\\RolRepository.cs",
+              "RelativeToolTip": "WebService.Infrastructure\\DataAccess\\RolRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T22:43:10.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\WebService.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "WebService.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\WebService.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "WebService.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T22:53:00.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Project_CredentialsContext.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\WebService.Infrastructure\\ContextDb\\Project_CredentialsContext.cs",
+              "RelativeDocumentMoniker": "WebService.Infrastructure\\ContextDb\\Project_CredentialsContext.cs",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\WebService.Infrastructure\\ContextDb\\Project_CredentialsContext.cs",
+              "RelativeToolTip": "WebService.Infrastructure\\ContextDb\\Project_CredentialsContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAWwBMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T03:01:30.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Program.cs",
+              "RelativeDocumentMoniker": "Project_Credentials\\Program.cs",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Program.cs",
+              "RelativeToolTip": "Project_Credentials\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T02:24:52.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\WebService.Domain\\Models\\Rol.cs",
+              "RelativeDocumentMoniker": "WebService.Domain\\Models\\Rol.cs",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\WebService.Domain\\Models\\Rol.cs",
+              "RelativeToolTip": "WebService.Domain\\Models\\Rol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T03:11:11.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project_Credentials\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project_Credentials\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T02:16:43.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\appsettings.json",
+              "RelativeDocumentMoniker": "Project_Credentials\\appsettings.json",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\appsettings.json",
+              "RelativeToolTip": "Project_Credentials\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-10T21:15:12.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebService.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\WebService.Application.csproj",
+              "RelativeDocumentMoniker": "Project_Credentials\\WebService.Application.csproj",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\WebService.Application.csproj",
+              "RelativeToolTip": "Project_Credentials\\WebService.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-09T23:59:11.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Project_Credentials\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Project_Credentials\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T03:11:03.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_Credentials\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project_Credentials\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T23:03:02.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Clients.cshtml",
+              "DocumentMoniker": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Views\\Home\\Clients.cshtml",
+              "RelativeDocumentMoniker": "Project_Credentials\\Views\\Home\\Clients.cshtml",
+              "ToolTip": "C:\\Users\\Personal\\source\\repos\\Project_Credentials\\Project_Credentials\\Views\\Home\\Clients.cshtml",
+              "RelativeToolTip": "Project_Credentials\\Views\\Home\\Clients.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T02:16:06.355Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

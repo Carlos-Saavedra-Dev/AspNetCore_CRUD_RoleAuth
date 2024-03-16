@@ -1,0 +1,25 @@
+﻿
+
+<head>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" crossorigin="anonymous"></script>
+</head>
+<div class="container mt-4">
+    <h2>Perfil del Usuario</h2>
+    <form asp-controller="Access" asp-action="SignUp" method="post">
+        <div class="mb-3">
+            <label for="userName" class="form-label">Name</label>
+            <input type="text" class="form-control" required id="userName" name="Name">
+        </div>
+        <div class="mb-3">
+            <label for="userEmail" class="form-label">Email</label>
+            <input type="email" class="form-control" required id="userEmail" name="Email">
+        </div>
+        <div class="mb-3">
+            <label for="userEmail"  class="form-label">Password</label>
+            <input type="password"  placeholder="Password" class="form-control" id="userPassword" required name="Password">
+        </div>
+        <button type="submit" class="btn btn-primary">SignUp</button>
+    </form>
+</div>
+
+

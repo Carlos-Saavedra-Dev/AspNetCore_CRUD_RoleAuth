@@ -1,0 +1,11 @@
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Domain\bin\Debug\net8.0\WebService.Domain.deps.json
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Domain\bin\Debug\net8.0\WebService.Domain.dll
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Domain\bin\Debug\net8.0\WebService.Domain.pdb
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Domain\obj\Debug\net8.0\WebService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Domain\obj\Debug\net8.0\WebService.Domain.AssemblyInfoInputs.cache
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Domain\obj\Debug\net8.0\WebService.Domain.AssemblyInfo.cs
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Domain\obj\Debug\net8.0\WebService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Domain\obj\Debug\net8.0\WebService.Domain.dll
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Domain\obj\Debug\net8.0\refint\WebService.Domain.dll
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Domain\obj\Debug\net8.0\WebService.Domain.pdb
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Domain\obj\Debug\net8.0\ref\WebService.Domain.dll

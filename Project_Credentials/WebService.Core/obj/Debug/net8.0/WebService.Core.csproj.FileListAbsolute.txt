@@ -1,0 +1,15 @@
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Core\bin\Debug\net8.0\WebService.Core.deps.json
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Core\bin\Debug\net8.0\WebService.Core.dll
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Core\bin\Debug\net8.0\WebService.Core.pdb
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Core\bin\Debug\net8.0\WebService.Domain.dll
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Core\bin\Debug\net8.0\WebService.Domain.pdb
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Core\obj\Debug\net8.0\WebService.Core.csproj.AssemblyReference.cache
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Core\obj\Debug\net8.0\WebService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Core\obj\Debug\net8.0\WebService.Core.AssemblyInfoInputs.cache
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Core\obj\Debug\net8.0\WebService.Core.AssemblyInfo.cs
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Core\obj\Debug\net8.0\WebService.Core.csproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Core\obj\Debug\net8.0\WebServi.1CF985F1.Up2Date
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Core\obj\Debug\net8.0\WebService.Core.dll
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Core\obj\Debug\net8.0\refint\WebService.Core.dll
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Core\obj\Debug\net8.0\WebService.Core.pdb
+C:\Users\Personal\source\repos\Project_Credentials\WebService.Core\obj\Debug\net8.0\ref\WebService.Core.dll
